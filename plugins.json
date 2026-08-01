@@ -19,6 +19,25 @@
     }
   },
   {
+    "author": "luckyoubest2",
+    "id": "orca-block-manager",
+    "name": "orca-block-manager",
+    "description": "Migrate blocks (optionally keeping an in-place reference or mirror), convert alias blocks, create aliases, and batch-manage blocks, including loading the target list from existing query blocks.",
+    "category": "Note Management",
+    "icon_png": "iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAiwSURBVHhe7dxtbBOHHcfxdG/aTeom7ZlpE9qG2q5rIIE4cWyffT7b5zwQ8uQ8NY/kyXmw82jyBIQFBkJbqz2wVhq0b9pNHa1oN7q2sCKtDCgUpC0jKhACJBBsX3x2nMQ4iZ2kv8keS/Gdkx7OVNXJ/aXPm+Tsu//Xp8SJlMTEiPP5j0Ty+neJhL/KyKQTuXrVQGm2jjFm6kajDGPcSt2s1sjOFiiT3klVJR9/KiYm5lHurv+3SfjpCz+glf9sTyevnc7QjLizdHbk6J0wpE4hP30W+WkzUScvzYvclHFk0w5s04wsZFA3BtPVV17SSP+u5e4f8Tz++IFvaKT/fi6NvOPOoadhSLmHXL0T2TSDbNqOLJ0NWTpr1MrW2YN7ZNNjMKRMoCB9Fjl6FhnqoTOU/AMdt8dDjUpyIsWQenu4wuBHSdY4irbZkJtiRZY2cOLVK4dmUBC4O/Us0lUDv1sfo3qM2+Yzh1Z8aNZJbTj6CuAen79vAXt7nNDLRnknXX3uIpceQ9FWPzKoodNxG/Z/i9toyaFlZ835qVOgk1i89boHD84v+lzQJ48iJ/BKrRFF6XPIUF+/lLjhN1/ltuKNevO7tEHHII92QZtwB8deCw14sNcFvXQUOVrrmlKcPod0xb/+zO0VMk8/vefrmeobo4UpHuRq70KXMIo3wwRMkY4iV2tdUwxaO4pSp6GXn2vkdlucNPnF54vT/PcfYIV2yyjeeHUqJOD+HmcwYODza0mgSYHejWzq1njSM0e+w20XE//koe9lU8OeAnocBq0NuRobNPGjeP8db0jAF59zBz8eOGbtsSJwg6XKL/Vx+wXuPktJ6izytLYgOuEuDh10Y34+pB8m3Quw1LJISbyLPN1/j11LivSTyCSvj0i///yXQwJmklfPFKdOI19rg15yF/s6XFjgxPvfOB3zqC1gkJ5sRf4ai5ivY1BAu0AnnlIvxkveeOzbuepbk4W0C9tkVvS2OLnNeDNmn0dNHoMspTUYPV+zdpSmziKD6N+9GJDc8hd5gYaBgWRQkmbH+Q9mcHPQj8GPfUsaHvLjzT96kKOyIo/in2Q1K02ZwTZF/9HFgHTSidwinQuFGgbP0jYU6WwwqKzLI20o1tuDxxZo1pYSvQf51OiZxYCZioHSEnoKhRp78IB8tXDcJ18LSvRTyKNGLi0GLNQydeUpPhRqbCIBSvVTyCUHB2JiYh4JBiyibMaKlFkUaWwiAcr0UzCQ1y+LASMUNuB2vQ/PUnaRAOW0B/mqITFgpHgBiymbsVLvQzFlFwlQES5gld6HEsouEmA77UGBGDByYQNW630opewiASppDwrFgJHjBSwjbcYa2ocytV0kQJXOgyJCDBixsAFraR/K1XaRANU6D4q5AY20H+VqRiRAte4eiokbnwasIG3GOtqPCjUjEqBG5xUDrkTYgPU6P7aTjEiAWq0XJQpOwAadH5UkIxLAqPGiVAwYOV7AKtJmbNT5UUUyIgHqNF6UiQEjFzagSedHNcmIBKgXA64ML2ANwRjN2jnUqMZEAjRQ0yiX3woN2KSdQ61qTCRAIzWN7WLAyJm4AY0EY2zWzsGoGhMJYKamUSkGjFzYgC3aOdSpxkQCNFHTqBIDRi5swFbNHOqVYyIBmtWcgA0EY2zTzKFBOSYSoEU9jWoxYOTCBmzXzKNR6RAJ0KqeQY18WAwYKV5AE8EYLZp5mJQOkQBt6hkYeQGpeZgIh0iANnIGRhknYAc1DzPhEAnQTs6gTgwYubABO6l5NBEOkQAWMeDK8AI2E4yxi5pHM+EQCbCDnEE9N2A3NY8WwiESoIOcQUNIQDlr7FYvoEXBigToUM2iIfmBgK1y1tijXkCrghUJ0KmahenBgO0ytm4lAZukLBo2O1AfHz0atzjQIuPvIkQgYKP01qd/bGiWWat71HNoU7APpZ1gYUpwoFPjxK+q3fht/UTUeK5iHK0yFk1JLNoI/m7L6VLNwpw80r8YsCL+fEGn0guLwoX2QBiBmiQOHCgYh+3mEv9c4Qs+H5/zoVPtRIuUv9tyAgHbFez5YLzAFMW9m7aDmICFGOcdvJz6jQ5cOD7Dva6omtf2T6E+doy323J6SD8apTdPLgY0xL73ZKvMttBBuGFRsMLIWZjiHbh2wce9pqiaEy97UR/r4O+3jF41UCcZOLQYcEOM+dGmpOEb3crpYBhBZCxMcQ5c/TC6A7532IuGQEDufktyYqfKD+OW/rLFgIFplFx5uZcEdshZYWQszKsg4InDXjTGOvj7LaGLmERbsnU25yd/WB8SsHzT+2Q3MYlOhYv3oLBWScCTDxXQgT3kJzAlXjseEu/+PGJOHLqwh1xAh5xFh9y5PJkTTXFs1H8N/NtLXphiBewrd6JTMY6dxD1Uxv5Dw40XnLJNp9Q9hAfdigneg8Mxx7K4+HZ0fxd+44AHpmeEBGTRRyJw973N7RYyDZLLL+xVA52B4p+hLYHFLwvdcNyOzveBgx/5sZNyYUcSf7dQLHqVPliS7W7DE0d/yG0WMuvXlz/WknjrzD4S6JQ5g7qWEoi4mcVujQsv1k7gSNMkDpu/+I6YJ3GociK4m0XCBvfg7XZfp4zFLsKLbvkEKjaeyuD2Cjtbn/j9N9uT7lz6uQrolo3znpRrR6ITrXEsWjZFj8D1diTxdwnFYg/hQ498AtVxZ6q4nZYd7Y8Ofq0lcejYXuUCeolpdMuca0qP3I3ADdSVzLLVcaczuX0ET/2WfnOXjGUCT7aHmEWPfJx3stXDhV3yKexTfoLdinuwSO8cM/z4lQ3cJg892U+9uq5ZcvVnHVLrjd0KT/CVCZykj/Cjj/BFvb3KueBOfco5dCez9yxJt9+qjf8ohdthxbNu3davBN4DNUuu7mqSXP1TVzJztlM6dtGSODxgSRy5HF2GByxJd/p3ydzn2iTDJ1slg79uTrxSVhl/LvQnjM9pvnT/d2PRJHDNK57/ALis06d/cFYtAAAAAElFTkSuQmCC",
+    "version": "1.0.0",
+    "updated": "2026-08-02T08:00:00Z",
+    "home": "https://github.com/luckyoubest2/orca-block-manager",
+    "zip": "https://github.com/luckyoubest2/orca-block-manager/releases/download/v1.0.0/orca-block-manager-v1.0.0.zip",
+    "translations": {
+      "zh": {
+        "name": "orca-block-manager",
+        "description": "迁移块（可原地保留引用或镜像块）、别名化/去别名化，并支持从已有查询块批量获取操作列表。",
+        "category": "笔记管理"
+      }
+    }
+  },
+  {
     "author": "cordinGH",
     "id": "dockpanel",
     "name": "Dockpanel",
